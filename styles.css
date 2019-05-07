@@ -1,0 +1,81 @@
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #ddd;
+}
+#heyon{
+  padding: 0px;
+  margin: 0px;
+}
+.panther{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.content {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.bucky{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.outer{
+  width: 100%;
+  height: 100%;
+  margin: 0px;
+  padding: 0px;
+}
+.thor{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.hulk{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.tony{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.natasha{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+.captain{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background: #fff;
+}
+#start-btn {
+  font-size: 24px;
+  padding: 20px 40px 20px 80px ;
+  margin-top: 30px;
+  border-radius: 10px;
+  background-size: 50px;
+  align-self: center;
+}
+.dust {
+  position: absolute;
+}
